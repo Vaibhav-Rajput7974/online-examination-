@@ -1,0 +1,14 @@
+SMAP
+javaAdmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 javaAdmin.jsp
+javaAdmin.jsp
++ 1 menu2.jsp
+menu2.jsp
+*L
+1,6:49
+1#1,30:55
+6#0,31:84
+*E
